@@ -109,7 +109,7 @@ header .menu {
 }
 
 #quem-somos img {
-    min-width: 420px;
+    min-width: 720px;
 }
 
 .container-externo {
@@ -168,7 +168,7 @@ header .menu {
 
 #planos {
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 50vh;
     padding-top: 50px;
 }
 
